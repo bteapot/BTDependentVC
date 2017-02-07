@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BTDependentVC_Example' do
+  pod 'BTDependentVC', :path => '../'
+
+  target 'BTDependentVC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
