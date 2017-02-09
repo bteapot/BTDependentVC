@@ -11,6 +11,14 @@
 #endif
 
 #ifdef __OBJC__
-    @import UIKit;
-    @import Foundation;
+
+@import UIKit;
+@import Foundation;
+@import CoreData;
+
+@import BTDependentVC;
+
+#import "BTDataSource.h"
+#import "DBObject+CoreDataClass.h"
+
 #endif

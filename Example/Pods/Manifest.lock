@@ -1,0 +1,16 @@
+PODS:
+  - BTDependentVC (1.0.0)
+
+DEPENDENCIES:
+  - BTDependentVC (from `../`)
+
+EXTERNAL SOURCES:
+  BTDependentVC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BTDependentVC: 14e2fa3d9deaa2734e3f76325a75922a2074f194
+
+PODFILE CHECKSUM: d5e96aff9590d41e60aa09552cb407f33a7b3008
+
+COCOAPODS: 1.2.0

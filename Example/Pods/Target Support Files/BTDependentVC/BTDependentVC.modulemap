@@ -1,0 +1,6 @@
+framework module BTDependentVC {
+  umbrella header "BTDependentVC-umbrella.h"
+
+  export *
+  module * { export * }
+}

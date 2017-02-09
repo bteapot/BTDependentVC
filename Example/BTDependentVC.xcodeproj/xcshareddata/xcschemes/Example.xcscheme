@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0720"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,23 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F589195388D20070C39A"
-               BuildableName = "BTDependentVC_Example.app"
-               BlueprintName = "BTDependentVC_Example"
+               BuildableName = "Example.app"
+               BlueprintName = "Example"
                ReferencedContainer = "container:BTDependentVC.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C0DADAA29F11FEFD24E6B434957BB8B0"
+               BuildableName = "BTDependentVC.framework"
+               BlueprintName = "BTDependentVC"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,23 +42,13 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6003F5AD195388D20070C39A"
-               BuildableName = "BTDependentVC_Tests.xctest"
-               BlueprintName = "BTDependentVC_Tests"
-               ReferencedContainer = "container:BTDependentVC.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "BTDependentVC_Example.app"
-            BlueprintName = "BTDependentVC_Example"
+            BuildableName = "Example.app"
+            BlueprintName = "Example"
             ReferencedContainer = "container:BTDependentVC.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,8 +70,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "BTDependentVC_Example.app"
-            BlueprintName = "BTDependentVC_Example"
+            BuildableName = "Example.app"
+            BlueprintName = "Example"
             ReferencedContainer = "container:BTDependentVC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -85,8 +89,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "BTDependentVC_Example.app"
-            BlueprintName = "BTDependentVC_Example"
+            BuildableName = "Example.app"
+            BlueprintName = "Example"
             ReferencedContainer = "container:BTDependentVC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
