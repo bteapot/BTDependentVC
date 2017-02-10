@@ -1,6 +1,6 @@
 # BTDependentVC
 
-[![CI Status](http://img.shields.io/travis/bteapot/BTDependentVC.svg?style=flat)](https://travis-ci.org/bteapot/BTDependentVC)
+<!-- [![CI Status](http://img.shields.io/travis/bteapot/BTDependentVC.svg?style=flat)](https://travis-ci.org/bteapot/BTDependentVC) -->
 [![Version](https://img.shields.io/cocoapods/v/BTDependentVC.svg?style=flat)](http://cocoapods.org/pods/BTDependentVC)
 [![License](https://img.shields.io/cocoapods/l/BTDependentVC.svg?style=flat)](http://cocoapods.org/pods/BTDependentVC)
 [![Platform](https://img.shields.io/cocoapods/p/BTDependentVC.svg?style=flat)](http://cocoapods.org/pods/BTDependentVC)
